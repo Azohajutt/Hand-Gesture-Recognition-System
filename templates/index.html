@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SignoraAI - Sign Language Recognition</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="main-wrapper">
+        <div class="container">
+            <div class="content">
+                <div class="video-container">
+                    <img id="videoFeed" src="{{ url_for('video_feed') }}">
+                </div>
+                <div class="text-container">
+                    <h1>🧠 SignoraAI</h1>
+                    <p>Your AI-Powered Sign Language Assistant</p>
+                    <button onclick="startCamera()">Start AI Sign Recognition</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    function startCamera() {
+        document.getElementById("videoFeed").style.display = "block";
+    }
+</script>
+</html>
