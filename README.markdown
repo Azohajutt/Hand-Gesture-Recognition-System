@@ -1,6 +1,6 @@
-# SignoraAI
+# Hand Gesture Recognition
 
-✨ SignoraAI is an AI-powered hand gesture recognition system trained using YOLOv8 on custom datasets collected and annotated via Roboflow. It can recognize key hand gestures with decent accuracy in real-time.
+✨ Hand Gesture Recognition is an AI-powered hand gesture recognition system trained using YOLOv8 on custom datasets collected and annotated via Roboflow. It can recognize key hand gestures with decent accuracy in real-time.
 
 ## Project Structure
 
@@ -22,7 +22,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/signoraai.git
+   git clone https://github.com/Azohajutt/Hand-Gesture-Recognition-System
    cd signoraai
    ```
 
