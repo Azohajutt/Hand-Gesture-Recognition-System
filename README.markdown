@@ -23,7 +23,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Azohajutt/Hand-Gesture-Recognition-System
-   cd signoraai
+   cd Hand-Gesture-Recognition-System
    ```
 
 2. Set up the virtual environment:
