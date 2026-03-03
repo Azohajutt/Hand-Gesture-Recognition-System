@@ -1,6 +1,6 @@
 # Hand Gesture Recognition
 
-✨ Hand Gesture Recognition is an AI-powered hand gesture recognition system trained using YOLOv8 on custom datasets collected and annotated via Roboflow. It can recognize key hand gestures with decent accuracy in real-time.
+Hand Gesture Recognition is an AI-powered hand gesture recognition system trained using YOLOv8 on custom datasets collected and annotated via Roboflow. It can recognize key hand gestures with decent accuracy in real-time.
 
 ## Project Structure
 
